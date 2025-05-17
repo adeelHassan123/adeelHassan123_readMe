@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adeelhassan123&label=Profile%20views&color=0e75b6&style=flat" alt="adeelhassan123" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow , Pytorch, Node.js , Express.js , REACT , MongoDB**
+- 🌱 I’m currently learning **TensorFlow, Pytorch & more DL/ML Framworks**
 
-- 💬 Ask me about **TensorFlow ,Pytorch ,MERN**
+- 💬 Ask me about **TensorFlow, Pytorch, MERN Stack & databases like supabase, mongoDB, MySQL**
 
 - 📫 How to reach me **adeel.hassan2k20@gmail.com**
 
