@@ -42,7 +42,7 @@ Email Me 👉 ✉️ **adeel.hassan2k20@gmail.com** For Collaboration/Project or
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adeelhassan123&show_icons=true&locale=en&theme=dark" alt="stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeelhassan123&theme=dark" alt="streak" />
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=adeelhassan123&theme=dark" alt="streak" />
 </p>
 
 <div align="center">
